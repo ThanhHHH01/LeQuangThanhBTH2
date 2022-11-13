@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "LeQuangThanhBTH2/1.0.0": {
+      "LeQuanggThanhBTH2/1.0.0": {
         "dependencies": {
           "EPPlus": "6.1.0",
           "Microsoft.EntityFrameworkCore.Design": "6.0.10",
@@ -15,7 +15,7 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.10"
         },
         "runtime": {
-          "LeQuangThanhBTH2.dll": {}
+          "LeQuanggThanhBTH2.dll": {}
         }
       },
       "EPPlus/6.1.0": {
@@ -2477,7 +2477,7 @@
     }
   },
   "libraries": {
-    "LeQuangThanhBTH2/1.0.0": {
+    "LeQuanggThanhBTH2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
