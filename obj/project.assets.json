@@ -10602,19 +10602,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\danga\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PTPM\\LeQuangThanhBTH2\\LeQuangThanhBTH2.csproj",
-      "projectName": "LeQuangThanhBTH2",
-      "projectPath": "D:\\PTPM\\LeQuangThanhBTH2\\LeQuangThanhBTH2.csproj",
-      "packagesPath": "C:\\Users\\danga\\.nuget\\packages\\",
-      "outputPath": "D:\\PTPM\\LeQuangThanhBTH2\\obj\\",
+      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Thư mục mới (5)\\LeQuanggThanhBTH2-main\\LeQuanggThanhBTH2.csproj",
+      "projectName": "LeQuanggThanhBTH2",
+      "projectPath": "C:\\Users\\Admin\\Downloads\\Thư mục mới (5)\\LeQuanggThanhBTH2-main\\LeQuanggThanhBTH2.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Downloads\\Thư mục mới (5)\\LeQuanggThanhBTH2-main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\danga\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
